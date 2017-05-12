@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WebAppChooserTest</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- default Alert Dialog -->
+    <string name="button_alert_dialog_positive_btn">Ok</string>
+    <string name="button_alert_dialog_negative_btn">Cancel</string>
+
+    <string name="error_get_location">Couldnt get current location</string>
+    <string name="error_get_accelerator">Accelerator is not available</string>
+    <string name="error_get_battery">Battery information is not available</string>
+
+    <string name="error_no_connection">No internet connection. Please try again!</string>
+    <string name="error_no_connection_ttl">No internet...</string>
+
+</resources>
